@@ -1,0 +1,49 @@
+# LLM Providers
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langchain-openai
+
+# Vector Database
+faiss-cpu
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Document Loaders
+pypdf
+pymupdf
+python-docx
+unstructured
+
+# Text Splitting
+tiktoken
+
+# Backend API
+fastapi
+uvicorn
+
+# Environment Variables
+python-dotenv
+
+# HTTP Requests
+requests
+httpx
+
+# Data Validation
+pydantic
+
+# Tokenizer
+transformers
+
+# Numerical
+numpy
+pandas
+
+# Optional (Logging)
+loguru
+
+# Optional (Progress Bar)
+tqdm

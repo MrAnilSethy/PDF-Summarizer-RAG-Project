@@ -1,0 +1,3 @@
+Hello my name is Anil
+How can i help to bild a assistant
+So today i will learn GenAI RAG 
